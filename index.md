@@ -15,12 +15,10 @@ Blogger, biking, reading books, wathing good movie.
 - merchendise app
 - lead interns
 - develop/design apps from windows mobile to android mobile
-
 ### Netcetera (2017-2021)
 - lead interns
 - lead project
 - Technical lead
-
 ## Hobbies
 - biking
 - highking
