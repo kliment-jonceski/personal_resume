@@ -1,3 +1,17 @@
+# Kliment Joncheski
+Software engineer (Android focused)
+
+## Education
+- 2006-2010 High scool
+- 2010-2014 University
+- 2014-current master
+
+## Expirience
+- 2015-2017 Info Biro
+- 2017-current Netcetera
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kliment-jonceski/personal_resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
