@@ -16,6 +16,7 @@ Blogger, biking, reading books, wathing good movie.
 - lead interns
 - develop/design apps from windows mobile to android mobile.
 - qwe
+- newlineeeeee
 ### Netcetera (2017-2021)
 - lead interns
 - lead project
