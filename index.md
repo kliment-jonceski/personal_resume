@@ -14,7 +14,8 @@ Blogger, biking, reading books, wathing good movie.
 ### Info Biro (2015-2017)
 - merchendise app
 - lead interns
-- develop/design apps from windows mobile to android mobile
+- develop/design apps from windows mobile to android mobile.
+- qwe
 ### Netcetera (2017-2021)
 - lead interns
 - lead project
