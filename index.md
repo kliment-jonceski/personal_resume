@@ -1,14 +1,26 @@
 # Kliment Joncheski
 Software engineer (Android focused)
 
+## About me
+Blogger, biking, reading books, wathing good movie.
+
 ## Education
 - 2006-2010 High scool
 - 2010-2014 University
 - 2014-current master
 
 ## Expirience
-- 2015-2017 Info Biro
-- 2017-current Netcetera
+### Info Biro (2015-2017)
+- merchendise app
+- lead interns
+- develop/design apps from windows mobile to android mobile
+### Netcetera (2017-2021)
+- lead interns
+- lead project
+- Technical lead
+## Hobbies
+- biking
+- highking
 
 
 
