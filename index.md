@@ -1,5 +1,4 @@
 # Kliment Joncheski
-![Image](src) test
 Software engineer (Android focused)
 
 ## About me
@@ -11,6 +10,7 @@ Blogger, biking, reading books, wathing good movie.
 - 2014-current master
 
 ## Expirience
+
 ### Info Biro (2015-2017)
 - merchendise app
 - lead interns
