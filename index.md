@@ -34,3 +34,9 @@ Android Sdk, Kotlin, Gradle, Git, JIRA, Scrum, CI/CD, Proguard, DI, baisc crypto
 
 ## Hobbies
 Programming, Blogging, biking, reading books, movies. Not specificcly in that order.
+
+## Available resources
+- Blogs available [here](https://medium.com/@kliment.jonceski) 
+- Playstore apps [here](https://play.google.com/store/apps/developer?id=Kliment+Joncheski)
+- Github projects [here](https://github.com/kliment-jonceski)
+- CV as pdf [here]()
