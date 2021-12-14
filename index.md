@@ -39,4 +39,4 @@ Programming, Blogging, biking, reading books, movies. Not specificcly in that or
 - Blogs available [here](https://medium.com/@kliment.jonceski) 
 - Playstore apps [here](https://play.google.com/store/apps/developer?id=Kliment+Joncheski)
 - Github projects [here](https://github.com/kliment-jonceski)
-- CV as pdf <a href="kj_resume_pdf" target="_blank">here</a>
+- CV as pdf <a href="kj_resume_pdf.pdf" target="_blank">here</a>
