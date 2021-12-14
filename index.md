@@ -1,5 +1,5 @@
 # Kliment Joncheski 
-![Image](20170608_083229.jpg)
+![Image](github_kj_profile.jpg)
 Software engineer (Android focused)
 
 ## About me
