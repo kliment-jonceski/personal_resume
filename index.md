@@ -16,10 +16,12 @@ Passionate software engineer that is currently focusing on mobile development.
 - Design and develop Android mobile application for merchandise
 - All apps were develop in team of 2 using Java, Android sdk
 - Developed backend side (.net with C#, SqlServer)
+
 ### Software Engineer at Netcetera (November 2016 - December 2018)
 - work on ongoing project in mobile banking area for Swiss market (Java and Android sdk)
 - fully support/create production releases (Playstore)
 - migrate codebase to MVP (VIPER), used dagger2
+
 ### Senior Software Engineer and Team Lead at Netcetera (January 2019 - present)
 - Line manager up to 6 people
 - Techincal coordinatior for mobile banking project (±500 000 users) for Swiss market, responsible for Android/IOS app development and delivery. Design and implement requirements from the PO.
