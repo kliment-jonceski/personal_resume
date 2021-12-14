@@ -27,5 +27,8 @@ Passionate software engineer that is currently focusing on mobile development.
 - Part of recruitment team for interns and Android developers
 - Responsible for Android infrastructire in Netcetera (jenkins, configure slaves, repository managers, develop/maintain gradle parent scripts and plugins, support project setup)
 
+## Technologies
+Android Sdk, Kotlin, Gradle, Git, JIRA, Scrum, CI/CD, Proguard, DI, baisc cryptography (AES, RSA)
+
 ## Hobbies
 Programming, Blogging, biking, reading books, movies. Not specificcly in that order.
