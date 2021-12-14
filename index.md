@@ -2,7 +2,7 @@
 Software engineer (Android focused)
 
 ## About me
-Blogger, biking, reading books, wathing good movie.
+Passionate software engineer that is currently focusing on mobile development.
 
 ## Education
 - 2010 - 2014 Bachelor’s Degree in Computer Software Engineering, Univerzitet 'Sv. Kiril i Metódij' in Skopje
@@ -28,5 +28,4 @@ Blogger, biking, reading books, wathing good movie.
 - Responsible for Android infrastructire in Netcetera (jenkins, configure slaves, repository managers, develop/maintain gradle parent scripts and plugins, support project setup)
 
 ## Hobbies
-- biking
-- highking
+Programming, Blogging, biking, reading books, movies. Not specificcly in that order.
